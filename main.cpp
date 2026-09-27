@@ -1,12 +1,11 @@
 #include <bits/stdc++.h>
-using namespace std;
 
 // TODO (round-robin): implement per the lesson description.
 
 int main() {
-    string line;
-    while (getline(cin, line)) {
+    std::string line;
+    while (getline(std::cin, line)) {
         if (line.empty()) continue;
-        cout << "TODO" << "\n";
+        std::cout << "TODO" << "\n";
     }
 }
